@@ -7,6 +7,11 @@ public class Punto {
 	public int getX() {
 		return x;
 	}
+	
+	public void setXY(int x, int y) {
+		this.setX(x);
+		this.setX(y);
+	}
 
 	public void setX(int x) {
 		this.x = x;
