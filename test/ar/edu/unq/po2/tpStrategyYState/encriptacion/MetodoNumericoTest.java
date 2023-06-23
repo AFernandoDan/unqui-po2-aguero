@@ -1,11 +1,13 @@
-package ar.edu.unq.po2.tpStrategyYState;
+package ar.edu.unq.po2.tpStrategyYState.encriptacion;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class MetodoNumericoaTest {
+import ar.edu.unq.po2.tpStrategyYState.encriptacion.MetodoNumerico;
+
+public class MetodoNumericoTest {
 	private MetodoNumerico mNumerico;
 
 	@BeforeEach

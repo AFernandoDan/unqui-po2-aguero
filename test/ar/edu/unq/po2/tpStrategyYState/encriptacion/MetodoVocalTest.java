@@ -1,9 +1,11 @@
-package ar.edu.unq.po2.tpStrategyYState;
+package ar.edu.unq.po2.tpStrategyYState.encriptacion;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import ar.edu.unq.po2.tpStrategyYState.encriptacion.MetodoVocal;
 
 public class MetodoVocalTest {
 	private MetodoVocal mVocal;

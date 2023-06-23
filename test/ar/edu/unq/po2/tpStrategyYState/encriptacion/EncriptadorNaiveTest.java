@@ -1,4 +1,4 @@
-package ar.edu.unq.po2.tpStrategyYState;
+package ar.edu.unq.po2.tpStrategyYState.encriptacion;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
@@ -6,6 +6,10 @@ import static org.mockito.Mockito.when;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import ar.edu.unq.po2.tpStrategyYState.encriptacion.EncriptadorNaive;
+import ar.edu.unq.po2.tpStrategyYState.encriptacion.MetodoEncriptacion;
+import ar.edu.unq.po2.tpStrategyYState.encriptacion.MetodoOrden;
 
 public class EncriptadorNaiveTest {
 	private EncriptadorNaive unEncriptadorNaiveOrden;

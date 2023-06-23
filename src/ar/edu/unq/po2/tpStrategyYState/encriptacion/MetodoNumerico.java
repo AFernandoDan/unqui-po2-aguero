@@ -1,4 +1,4 @@
-package ar.edu.unq.po2.tpStrategyYState;
+package ar.edu.unq.po2.tpStrategyYState.encriptacion;
 
 
 import java.util.Arrays;
